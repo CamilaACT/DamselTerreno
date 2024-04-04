@@ -19,6 +19,9 @@ La escena busca recrear los elementos clave de la película Damsel usando modela
 
 ## `Diseño`
 
+Al recorrer la escena se puede identificar fácilemente los elementos principales, las 5 texturas empleadas en los diferentes desniveles del terreno y los elementos naturales (árboles, flores, piedras, césped).
+
+
 #### **Elementos principales**
 |Elementos|Descripción|
 |--|--|
@@ -32,8 +35,8 @@ La escena busca recrear los elementos clave de la película Damsel usando modela
 
 |Assets|Descripción|
 |--|--|
-|`Fantasy landscape`|Tamaño:111.7 MB <br/> Números de documentos:393 <br/> Version: 2022.3.11 v o superiores <br/> Los objetos están hechos en estilo pintado a mano.Representan objetos de una aldea mediaval y naturaleza.|
-|`Dragon PBR`|Tamaño:28.6 MB MB <br/> Números de documentos:16 <br/> Version: 2018.1.6 v o superiores <br/> Dragon animado, incluye animaciones 13 animaciones. Principales: caminar, correr, volar, atacar.|
+|`Fantasy landscape`|Tamaño:111.7 MB <br/> Números de documentos:393 <br/> Version: 2022.3.11 v o superiores <br/> Los objetos están hechos en estilo pintado a mano.Representan objetos de una aldea mediaval y naturaleza|
+|`Dragon PBR`|Tamaño:28.6 MB MB <br/> Números de documentos:16 <br/> Version: 2018.1.6 v o superiores <br/> Dragon animado, incluye animaciones 13 animaciones. Principales: caminar, correr, volar, atacar|
 
 <br/>
 
